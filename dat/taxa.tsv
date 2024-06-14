@@ -1,0 +1,373 @@
+taxon_id	scientific_name	vernacular_name_en	vernacular_name_fi	taxon_rank	is_bird
+MX.25836	Gavia stellata	Red-throated Loon	kaakkuri	species	True
+MX.25837	Gavia arctica	Black-throated Loon	kuikka	species	True
+MX.25839	Gavia immer	Common Loon	amerikanjääkuikka	species	True
+MX.25840	Gavia adamsii	Yellow-billed Loon	jääkuikka	species	True
+MX.25844	Tachybaptus ruficollis	Little Grebe	pikku-uikku	species	True
+MX.25859	Podiceps grisegena	Red-necked Grebe	härkälintu	species	True
+MX.25860	Podiceps cristatus	Great Crested Grebe	silkkiuikku	species	True
+MX.25861	Podiceps auritus	Horned Grebe	mustakurkku-uikku	species	True
+MX.25862	Podiceps nigricollis	Black-necked Grebe	mustakaulauikku	species	True
+MX.25892	Fulmarus glacialis	Northern Fulmar	myrskylintu	species	True
+MX.26027	Morus bassanus	Northern Gannet	suula	species	True
+MX.26043	Phalacrocorax carbo	Great Cormorant	merimetso	species	True
+MX.26051	Phalacrocorax aristotelis	European Shag	karimetso	species	True
+MX.26094	Ardea cinerea	Grey Heron	harmaahaikara	species	True
+MX.26103	Ardea purpurea	Purple Heron	ruskohaikara	species	True
+MX.26105	Egretta alba	Great Egret	jalohaikara	species	True
+MX.26115	Egretta garzetta	Little Egret	silkkihaikara	species	True
+MX.26119	Bubulcus ibis	Cattle Egret	lehmähaikara	species	True
+MX.26121	Ardeola ralloides	Squacco Heron	rääkkähaikara	species	True
+MX.26133	Nycticorax nycticorax	Black-crowned Night Heron	yöhaikara	species	True
+MX.26164	Botaurus stellaris	Eurasian Bittern	kaulushaikara	species	True
+MX.26182	Ciconia nigra	Black Stork	mustahaikara	species	True
+MX.26187	Ciconia ciconia	White Stork	kattohaikara	species	True
+MX.26234	Plegadis falcinellus	Glossy Ibis	pronssi-iibis	species	True
+MX.26240	Platalea leucorodia	Eurasian Spoonbill	kapustahaikara	species	True
+MX.26257	Anseriformes	Waterfowl	sorsalinnut	order	True
+MX.26277	Cygnus olor	Mute Swan	kyhmyjoutsen	species	True
+MX.26280	Cygnus cygnus	Whooper Swan	laulujoutsen	species	True
+MX.26282	Cygnus columbianus	Tundra Swan	pikkujoutsen	species	True
+MX.26287	Anser fabalis	Bean Goose	metsähanhi	species	True
+MX.26288	Anser brachyrhynchus	Pink-footed Goose	lyhytnokkahanhi	species	True
+MX.26289	Anser albifrons	Greater White-fronted Goose	tundrahanhi	species	True
+MX.26290	Anser erythropus	Lesser White-fronted Goose	kiljuhanhi	species	True
+MX.26291	Anser anser	Greylag Goose	merihanhi	species	True
+MX.26292	Anser indicus	Bar-headed Goose	tiibetinhanhi	species	True
+MX.26293	Anser caerulescens	Snow Goose	lumihanhi	species	True
+MX.26296	Branta		kirjohanhet	genus	True
+MX.26298	Branta canadensis	Canada Goose	kanadanhanhi	species	True
+MX.26299	Branta leucopsis	Barnacle Goose	valkoposkihanhi	species	True
+MX.26300	Branta bernicla	Brant	sepelhanhi	species	True
+MX.26301	Branta ruficollis	Red-breasted Goose	punakaulahanhi	species	True
+MX.26319	Tadorna ferruginea	Ruddy Shelduck	ruostesorsa	species	True
+MX.26323	Tadorna tadorna	Common Shelduck	ristisorsa	species	True
+MX.26348	Aix galericulata	Mandarin Duck	mandariinisorsa	species	True
+MX.26360	Anas penelope	Eurasian Wigeon	haapana	species	True
+MX.26364	Anas strepera	Gadwall	harmaasorsa	species	True
+MX.26366	Anas crecca	Eurasian Teal	tavi	species	True
+MX.26373	Anas platyrhynchos	Mallard	sinisorsa	species	True
+MX.26382	Anas acuta	Northern Pintail	jouhisorsa	species	True
+MX.26388	Anas querquedula	Garganey	heinätavi	species	True
+MX.26394	Anas clypeata	Northern Shoveler	lapasorsa	species	True
+MX.26402	Netta rufina	Red-crested Pochard	punapäänarsku	species	True
+MX.26407	Aythya ferina	Common Pochard	punasotka	species	True
+MX.26412	Aythya nyroca	Ferruginous Duck	ruskosotka	species	True
+MX.26415	Aythya fuligula	Tufted Duck	tukkasotka	species	True
+MX.26416	Aythya marila	Greater Scaup	lapasotka	species	True
+MX.26419	Somateria mollissima	Common Eider	haahka	species	True
+MX.26420	Somateria spectabilis	King Eider	kyhmyhaahka	species	True
+MX.26423	Polysticta stelleri	Steller's Eider	allihaahka	species	True
+MX.26427	Clangula hyemalis	Long-tailed Duck	alli	species	True
+MX.26429	Melanitta nigra	Common Scoter	mustalintu	species	True
+MX.26431	Melanitta fusca	Velvet Scoter	pilkkasiipi	species	True
+MX.26435	Bucephala clangula	Common Goldeneye	telkkä	species	True
+MX.26438	Mergellus albellus	Smew	uivelo	species	True
+MX.26440	Mergus serrator	Red-breasted Merganser	tukkakoskelo	species	True
+MX.26442	Mergus merganser	Common Merganser	isokoskelo	species	True
+MX.26472	Pandion haliaetus	Osprey	sääksi	species	True
+MX.26488	Pernis apivorus	European Honey Buzzard	mehiläishaukka	species	True
+MX.26518	Milvus migrans	Black Kite	haarahaukka	species	True
+MX.26519	Milvus milvus	Red Kite	isohaarahaukka	species	True
+MX.26530	Haliaeetus albicilla	White-tailed Sea Eagle	merikotka	species	True
+MX.26543	Gyps fulvus	Griffon Vulture	hanhikorppikotka	species	True
+MX.26557	Circaetus gallicus	Short-toed Snake Eagle	käärmekotka	species	True
+MX.26592	Circus cyaneus	Hen Harrier	sinisuohaukka	species	True
+MX.26594	Circus macrourus	Pallid Harrier	arosuohaukka	species	True
+MX.26596	Circus pygargus	Montagu's Harrier	niittysuohaukka	species	True
+MX.26597	Circus aeruginosus	Western Marsh Harrier	ruskosuohaukka	species	True
+MX.26639	Accipiter nisus	Eurasian Sparrowhawk	varpushaukka	species	True
+MX.26647	Accipiter gentilis	Northern Goshawk	kanahaukka	species	True
+MX.26701	Buteo buteo	Common Buzzard	hiirihaukka	species	True
+MX.26704	Buteo lagopus	Rough-legged Buzzard	piekana	species	True
+MX.26705	Buteo rufinus	Long-legged Buzzard	arohiirihaukka	species	True
+MX.26722	Aquila pomarina	Lesser Spotted Eagle	pikkukiljukotka	species	True
+MX.26723	Aquila clanga	Greater Spotted Eagle	kiljukotka	species	True
+MX.26725	Aquila heliaca	Eastern Imperial Eagle	keisarikotka	species	True
+MX.26727	Aquila chrysaetos	Golden Eagle	maakotka	species	True
+MX.26734	Aquila pennata	Booted Eagle	pikkukotka	species	True
+MX.26792	Falco naumanni	Lesser Kestrel	pikkutuulihaukka	species	True
+MX.26796	Falco tinnunculus	Common Kestrel	tuulihaukka	species	True
+MX.26805	Falco vespertinus	Red-footed Falcon	punajalkahaukka	species	True
+MX.26808	Falco columbarius	Merlin	ampuhaukka	species	True
+MX.26811	Falco subbuteo	Eurasian Hobby	nuolihaukka	species	True
+MX.26828	Falco peregrinus	Peregrine Falcon	muuttohaukka	species	True
+MX.26921	Lagopus lagopus	Willow Ptarmigan	riekko	species	True
+MX.26922	Lagopus muta	Rock Ptarmigan	kiiruna	species	True
+MX.26926	Tetrao tetrix	Black Grouse	teeri	species	True
+MX.26928	Tetrao urogallus	Western Capercaillie	metso	species	True
+MX.26931	Tetrastes bonasia	Hazel Grouse	pyy	species	True
+MX.27048	Perdix perdix	Grey Partridge	peltopyy	species	True
+MX.27058	Coturnix coturnix	Common Quail	viiriäinen	species	True
+MX.27123	Gallus gallus		punaviidakkokana	species	True
+MX.27152	Phasianus colchicus	Common Pheasant	fasaani	species	True
+MX.27214	Grus grus	Common Crane	kurki	species	True
+MX.27276	Rallus aquaticus	Water Rail	luhtakana	species	True
+MX.27328	Crex crex	Corn Crake	ruisrääkkä	species	True
+MX.27342	Porzana parva	Little Crake	pikkuhuitti	species	True
+MX.27345	Porzana porzana	Spotted Crake	luhtahuitti	species	True
+MX.27364	Gallinula chloropus	Common Moorhen	liejukana	species	True
+MX.27381	Fulica atra	Eurasian Coot	nokikana	species	True
+MX.27403	Tetrax tetrax	Little Bustard	pikkutrappi	species	True
+MX.27459	Haematopus ostralegus	Eurasian Oystercatcher	meriharakka	species	True
+MX.27475	Himantopus himantopus	Black-winged Stilt	pitkäjalka	species	True
+MX.27486	Recurvirostra avosetta	Pied Avocet	avosetti	species	True
+MX.27518	Glareola pratincola	Collared Pratincole	pääskykahlaaja	species	True
+MX.27527	Vanellus vanellus	Northern Lapwing	töyhtöhyyppä	species	True
+MX.27553	Pluvialis apricaria	European Golden Plover	kapustarinta	species	True
+MX.27555	Pluvialis fulva	Pacific Golden Plover	siperiankurmitsa	species	True
+MX.27556	Pluvialis squatarola	Grey Plover	tundrakurmitsa	species	True
+MX.27559	Charadrius hiaticula	Common Ringed Plover	tylli	species	True
+MX.27562	Charadrius dubius	Little Ringed Plover	pikkutylli	species	True
+MX.27570	Charadrius alexandrinus	Kentish Plover	mustajalkatylli	species	True
+MX.27597	Charadrius morinellus	Eurasian Dotterel	keräkurmitsa	species	True
+MX.27603	Limosa limosa	Black-tailed Godwit	mustapyrstökuiri	species	True
+MX.27605	Limosa lapponica	Bar-tailed Godwit	punakuiri	species	True
+MX.27610	Numenius phaeopus	Whimbrel	pikkukuovi	species	True
+MX.27613	Numenius arquata	Eurasian Curlew	kuovi	species	True
+MX.27619	Tringa erythropus	Spotted Redshank	mustaviklo	species	True
+MX.27620	Tringa totanus	Common Redshank	punajalkaviklo	species	True
+MX.27621	Tringa stagnatilis	Marsh Sandpiper	lampiviklo	species	True
+MX.27622	Tringa nebularia	Common Greenshank	valkoviklo	species	True
+MX.27626	Tringa ochropus	Green Sandpiper	metsäviklo	species	True
+MX.27628	Tringa glareola	Wood Sandpiper	liro	species	True
+MX.27632	Xenus cinereus	Terek Sandpiper	rantakurvi	species	True
+MX.27634	Actitis hypoleucos	Common Sandpiper	rantasipi	species	True
+MX.27642	Arenaria interpres	Ruddy Turnstone	karikukko	species	True
+MX.27646	Phalaropus lobatus	Red-necked Phalarope	vesipääsky	species	True
+MX.27647	Phalaropus fulicarius	Red Phalarope	isovesipääsky	species	True
+MX.27649	Scolopax rusticola	Eurasian Woodcock	lehtokurppa	species	True
+MX.27665	Gallinago media	Great Snipe	heinäkurppa	species	True
+MX.27666	Gallinago gallinago	Common Snipe	taivaanvuohi	species	True
+MX.27674	Lymnocryptes minimus	Jack Snipe	jänkäkurppa	species	True
+MX.27682	Calidris canutus	Red Knot	isosirri	species	True
+MX.27684	Calidris alba	Sanderling	pulmussirri	species	True
+MX.27688	Calidris minuta	Little Stint	pikkusirri	species	True
+MX.27689	Calidris temminckii	Temminck's Stint	lapinsirri	species	True
+MX.27694	Calidris melanotos	Pectoral Sandpiper	palsasirri	species	True
+MX.27697	Calidris maritima	Purple Sandpiper	merisirri	species	True
+MX.27699	Calidris alpina	Dunlin	suosirri	species	True
+MX.27700	Calidris ferruginea	Curlew Sandpiper	kuovisirri	species	True
+MX.27704	Calidris falcinellus	Broad-billed Sandpiper	jänkäsirriäinen	species	True
+MX.27710	Calidris pugnax	Ruff	suokukko	species	True
+MX.27729	Stercorarius pomarinus	Pomarine Jaeger	leveäpyrstökihu	species	True
+MX.27730	Stercorarius parasiticus	Parasitic Jaeger	merikihu	species	True
+MX.27731	Stercorarius longicaudus	Long-tailed Jaeger	tunturikihu	species	True
+MX.27738	Larus		lokit	genus	True
+MX.27748	Larus canus	Mew Gull	kalalokki	species	True
+MX.27750	Larus argentatus	European Herring Gull	harmaalokki	species	True
+MX.27753	Larus fuscus	Lesser Black-backed Gull	selkälokki	species	True
+MX.27759	Larus marinus	Great Black-backed Gull	merilokki	species	True
+MX.27761	Larus hyperboreus	Glaucous Gull	isolokki	species	True
+MX.27770	Larus melanocephalus	Mediterranean Gull	mustanmerenlokki	species	True
+MX.27774	Larus ridibundus	Black-headed Gull	naurulokki	species	True
+MX.27777	Hydrocoloeus minutus	Little Gull	pikkulokki	species	True
+MX.27782	Rissa tridactyla	Black-legged Kittiwake	pikkukajava	species	True
+MX.27789	Chlidonias hybrida	Whiskered Tern	valkoposkitiira	species	True
+MX.27790	Chlidonias leucopterus	White-winged Tern	valkosiipitiira	species	True
+MX.27791	Chlidonias niger	Black Tern	mustatiira	species	True
+MX.27797	Hydroprogne caspia	Caspian Tern	räyskä	species	True
+MX.27801	Sterna hirundo	Common Tern	kalatiira	species	True
+MX.27802	Sterna paradisaea	Arctic Tern	lapintiira	species	True
+MX.27821	Sternula albifrons	Little Tern	pikkutiira	species	True
+MX.27830	Sterna sandvicensis	Sandwich Tern	riuttatiira	species	True
+MX.27848	Alle alle	Little Auk	pikkuruokki	species	True
+MX.27850	Alca torda	Razorbill	ruokki	species	True
+MX.27852	Uria lomvia	Thick-billed Murre	pohjankiisla	species	True
+MX.27853	Uria aalge	Common Murre	etelänkiisla	species	True
+MX.27855	Cepphus grylle	Black Guillemot	riskilä	species	True
+MX.27877	Fratercula arctica	Atlantic Puffin	lunni	species	True
+MX.27903	Columba livia	Rock Dove	kalliokyyhky	species	True
+MX.27908	Columba oenas	Stock Dove	uuttukyyhky	species	True
+MX.27911	Columba palumbus	Common Wood Pigeon	sepelkyyhky	species	True
+MX.27955	Streptopelia turtur	European Turtle Dove	turturikyyhky	species	True
+MX.27958	Streptopelia orientalis	Oriental Turtle Dove	idänturturikyyhky	species	True
+MX.27960	Streptopelia decaocto	Eurasian Collared Dove	turkinkyyhky	species	True
+MX.28715	Cuculus canorus	Common Cuckoo	käki	species	True
+MX.28881	Tyto alba	Western Barn Owl	tornipöllö	species	True
+MX.28965	Bubo bubo	Eurasian Eagle-owl	huuhkaja	species	True
+MX.28998	Strix aluco	Tawny Owl	lehtopöllö	species	True
+MX.29003	Strix uralensis	Ural Owl	viirupöllö	species	True
+MX.29004	Strix nebulosa	Great Grey Owl	lapinpöllö	species	True
+MX.29008	Surnia ulula	Northern Hawk-Owl	hiiripöllö	species	True
+MX.29011	Glaucidium passerinum	Eurasian Pygmy Owl	varpuspöllö	species	True
+MX.29038	Aegolius funereus	Boreal Owl	helmipöllö	species	True
+MX.29068	Asio otus	Long-eared Owl	sarvipöllö	species	True
+MX.29072	Asio flammeus	Short-eared Owl	suopöllö	species	True
+MX.29172	Caprimulgus europaeus	European Nightjar	kehrääjä	species	True
+MX.29324	Apus apus	Common Swift	tervapääsky	species	True
+MX.29860	Alcedo atthis	Common Kingfisher	kuningaskalastaja	species	True
+MX.29996	Merops persicus	Blue-cheeked Bee-eater	vihermehiläissyöjä	species	True
+MX.29998	Merops apiaster	European Bee-eater	mehiläissyöjä	species	True
+MX.30004	Coracias garrulus	European Roller	sininärhi	species	True
+MX.30031	Upupa epops	Eurasian Hoopoe	harjalintu	species	True
+MX.30103	Piciformes	Woodpeckers and relatives	tikkalinnut	order	True
+MX.30331	Picidae	Woodpeckers	tikat	family	True
+MX.30333	Jynx torquilla	Eurasian Wryneck	käenpiika	species	True
+MX.30428	Dendrocopos minor	Lesser Spotted Woodpecker	pikkutikka	species	True
+MX.30437	Dendrocopos medius	Middle Spotted Woodpecker	tammitikka	species	True
+MX.30438	Dendrocopos leucotos	White-backed Woodpecker	valkoselkätikka	species	True
+MX.30443	Dendrocopos major	Great Spotted Woodpecker	käpytikka	species	True
+MX.30453	Picoides tridactylus	Eurasian Three-toed Woodpecker	pohjantikka	species	True
+MX.30504	Dryocopus martius	Black Woodpecker	palokärki	species	True
+MX.30527	Picus viridis	European Green Woodpecker	vihertikka	species	True
+MX.30530	Picus canus	Grey-headed Woodpecker	harmaapäätikka	species	True
+MX.32020	Melanocorypha calandra	Calandra Lark	arokiuru	species	True
+MX.32033	Calandrella brachydactyla	Greater Short-toed Lark	lyhytvarvaskiuru	species	True
+MX.32056	Galerida cristata	Crested Lark	töyhtökiuru	species	True
+MX.32063	Lullula arborea	Woodlark	kangaskiuru	species	True
+MX.32065	Alauda arvensis	Eurasian Skylark	kiuru	species	True
+MX.32076	Eremophila alpestris	Horned Lark	tunturikiuru	species	True
+MX.32120	Riparia riparia	Sand Martin	törmäpääsky	species	True
+MX.32128	Ptyonoprogne rupestris	Eurasian Crag Martin	kalliopääsky	species	True
+MX.32132	Hirundo rustica	Barn Swallow	haarapääsky	species	True
+MX.32149	Cecropis daurica	Red-rumped Swallow	ruostepääsky	species	True
+MX.32163	Delichon urbicum	Common House Martin	räystäspääsky	species	True
+MX.32180	Motacilla flava	Western Yellow Wagtail	keltavästäräkki	species	True
+MX.32181	Motacilla citreola	Citrine Wagtail	sitruunavästäräkki	species	True
+MX.32182	Motacilla cinerea	Grey Wagtail	virtavästäräkki	species	True
+MX.32183	Motacilla alba	White Wagtail	västäräkki	species	True
+MX.32203	Anthus		kirviset	genus	True
+MX.32204	Anthus richardi	Richard's Pipit	isokirvinen	species	True
+MX.32207	Anthus campestris	Tawny Pipit	nummikirvinen	species	True
+MX.32213	Anthus pratensis	Meadow Pipit	niittykirvinen	species	True
+MX.32214	Anthus trivialis	Tree Pipit	metsäkirvinen	species	True
+MX.32215	Anthus hodgsoni	Olive-backed Pipit	taigakirvinen	species	True
+MX.32217	Anthus cervinus	Red-throated Pipit	lapinkirvinen	species	True
+MX.32221	Anthus petrosus	Eurasian Rock Pipit	luotokirvinen	species	True
+MX.32561	Lanius collurio	Red-backed Shrike	pikkulepinkäinen	species	True
+MX.32568	Lanius minor	Lesser Grey Shrike	mustaotsalepinkäinen	species	True
+MX.32570	Lanius excubitor	Great Grey Shrike	isolepinkäinen	species	True
+MX.32578	Lanius senator	Woodchat Shrike	punapäälepinkäinen	species	True
+MX.32608	Bombycilla garrulus	Bohemian Waxwing	tilhi	species	True
+MX.32625	Cinclus cinclus	White-throated Dipper	koskikara	species	True
+MX.32696	Troglodytes troglodytes	Eurasian Wren	peukaloinen	species	True
+MX.32767	Prunella montanella	Siberian Accentor	taigarautiainen	species	True
+MX.32772	Prunella modularis	Dunnock	rautiainen	species	True
+MX.32775	Turdidae	Thrushes	rastaat	family	True
+MX.32801	Erithacus rubecula	European Robin	punarinta	species	True
+MX.32816	Tarsiger cyanurus	Red-flanked Bluetail	sinipyrstö	species	True
+MX.32819	Luscinia luscinia	Thrush Nightingale	satakieli	species	True
+MX.32820	Luscinia megarhynchos	Common Nightingale	etelänsatakieli	species	True
+MX.32821	Luscinia svecica	Bluethroat	sinirinta	species	True
+MX.32894	Phoenicurus ochruros	Black Redstart	mustaleppälintu	species	True
+MX.32895	Phoenicurus phoenicurus	Common Redstart	leppälintu	species	True
+MX.32949	Saxicola rubetra	Whinchat	pensastasku	species	True
+MX.32953	Saxicola rubicola	European Stonechat	mustapäätasku	species	True
+MX.32966	Oenanthe oenanthe	Northern Wheatear	kivitasku	species	True
+MX.32971	Oenanthe pleschanka	Pied Wheatear	nunnatasku	species	True
+MX.32979	Oenanthe isabellina	Isabelline Wheatear	arotasku	species	True
+MX.33015	Monticola solitarius	Blue Rock Thrush	sinirastas	species	True
+MX.33090	Turdus		rastaat	genus	True
+MX.33104	Turdus torquatus	Ring Ouzel	sepelrastas	species	True
+MX.33106	Turdus merula	Common Blackbird	mustarastas	species	True
+MX.33115	Turdus atrogularis	Black-throated Thrush	mustakaularastas	species	True
+MX.33117	Turdus pilaris	Fieldfare	räkättirastas	species	True
+MX.33118	Turdus iliacus	Redwing	punakylkirastas	species	True
+MX.33119	Turdus philomelos	Song Thrush	laulurastas	species	True
+MX.33121	Turdus viscivorus	Mistle Thrush	kulorastas	species	True
+MX.33492	Panurus biarmicus	Bearded Reedling	viiksitimali	species	True
+MX.33534	Sylviidae	Sylvia Warblers, Parrotbills and allies	kertut	family	True
+MX.33629	Locustella lanceolata	Lanceolated Warbler	viirusirkkalintu	species	True
+MX.33630	Locustella naevia	Common Grasshopper Warbler	pensassirkkalintu	species	True
+MX.33634	Locustella fluviatilis	River Warbler	viitasirkkalintu	species	True
+MX.33635	Locustella luscinioides	Savi's Warbler	ruokosirkkalintu	species	True
+MX.33641	Acrocephalus schoenobaenus	Sedge Warbler	ruokokerttunen	species	True
+MX.33644	Acrocephalus agricola	Paddyfield Warbler	kenttäkerttunen	species	True
+MX.33646	Acrocephalus scirpaceus	Common Reed Warbler	rytikerttunen	species	True
+MX.33649	Acrocephalus palustris	Marsh Warbler	luhtakerttunen	species	True
+MX.33650	Acrocephalus dumetorum	Blyth's Reed Warbler	viitakerttunen	species	True
+MX.33651	Acrocephalus arundinaceus	Great Reed Warbler	rastaskerttunen	species	True
+MX.33671	Iduna caligata	Booted Warbler	pikkukultarinta	species	True
+MX.33676	Hippolais icterina	Icterine Warbler	kultarinta	species	True
+MX.33873	Phylloscopus trochilus	Willow Warbler	pajulintu	species	True
+MX.33874	Phylloscopus collybita	Common Chiffchaff	tiltaltti	species	True
+MX.33878	Phylloscopus sibilatrix	Wood Warbler	sirittäjä	species	True
+MX.33879	Phylloscopus fuscatus	Dusky Warbler	ruskouunilintu	species	True
+MX.33887	Phylloscopus proregulus	Pallas's Leaf Warbler	hippiäisuunilintu	species	True
+MX.33889	Phylloscopus inornatus	Yellow-browed Warbler	taigauunilintu	species	True
+MX.33890	Phylloscopus borealis	Arctic Warbler	lapinuunilintu	species	True
+MX.33891	Phylloscopus trochiloides	Greenish Warbler	idänuunilintu	species	True
+MX.33933	Sylvia		kertut	genus	True
+MX.33934	Sylvia atricapilla	Eurasian Blackcap	mustapääkerttu	species	True
+MX.33935	Sylvia borin	Garden Warbler	lehtokerttu	species	True
+MX.33936	Sylvia communis	Common Whitethroat	pensaskerttu	species	True
+MX.33937	Sylvia curruca	Lesser Whitethroat	hernekerttu	species	True
+MX.33939	Sylvia nisoria	Barred Warbler	kirjokerttu	species	True
+MX.33943	Sylvia melanocephala	Sardinian Warbler	samettipääkerttu	species	True
+MX.33952	Regulus ignicapilla	Common Firecrest	tulipäähippiäinen	species	True
+MX.33954	Regulus regulus	Goldcrest	hippiäinen	species	True
+MX.33989	Muscicapa striata	Spotted Flycatcher	harmaasieppo	species	True
+MX.34021	Ficedula hypoleuca	European Pied Flycatcher	kirjosieppo	species	True
+MX.34022	Ficedula albicollis	Collared Flycatcher	sepelsieppo	species	True
+MX.34029	Ficedula parva	Red-breasted Flycatcher	pikkusieppo	species	True
+MX.34505	Aegithalos caudatus	Long-tailed Tit	pyrstötiainen	species	True
+MX.34517	Remiz pendulinus	Eurasian Penduline Tit	pussitiainen	species	True
+MX.34530	Paridae	Tits	tiaiset	family	True
+MX.34531	Parus		talitiaiset	genus	True
+MX.34532	Poecile palustris	Marsh Tit	viitatiainen	species	True
+MX.34535	Poecile montanus	Willow Tit	hömötiainen	species	True
+MX.34542	Poecile cinctus	Siberian Tit	lapintiainen	species	True
+MX.34549	Periparus ater	Coal Tit	kuusitiainen	species	True
+MX.34553	Lophophanes cristatus	European Crested Tit	töyhtötiainen	species	True
+MX.34567	Parus major	Great Tit	talitiainen	species	True
+MX.34574	Cyanistes caeruleus	Eurasian Blue Tit	sinitiainen	species	True
+MX.34575	Cyanistes cyanus	Azure Tit	valkopäätiainen	species	True
+MX.34586	Sitta europaea	Eurasian Nuthatch	pähkinänakkeli	species	True
+MX.34616	Certhia familiaris	Eurasian Treecreeper	puukiipijä	species	True
+MX.35145	Emberiza calandra	Corn Bunting	harmaasirkku	species	True
+MX.35146	Emberiza citrinella	Yellowhammer	keltasirkku	species	True
+MX.35147	Emberiza leucocephalos	Pine Bunting	mäntysirkku	species	True
+MX.35154	Emberiza hortulana	Ortolan Bunting	peltosirkku	species	True
+MX.35165	Emberiza pusilla	Little Bunting	pikkusirkku	species	True
+MX.35167	Emberiza rustica	Rustic Bunting	pohjansirkku	species	True
+MX.35169	Emberiza aureola	Yellow-breasted Bunting	kultasirkku	species	True
+MX.35179	Emberiza spodocephala	Black-faced Bunting	harmaapääsirkku	species	True
+MX.35182	Emberiza schoeniclus	Common Reed Bunting	pajusirkku	species	True
+MX.35185	Calcarius lapponicus	Lapland Longspur	lapinsirkku	species	True
+MX.35189	Plectrophenax nivalis	Snow Bunting	pulmunen	species	True
+MX.36235	Fringillidae	Finches, Euphonias and Hawaiian Honeycreepers	peipot	family	True
+MX.36237	Fringilla coelebs	Common Chaffinch	peippo	species	True
+MX.36239	Fringilla montifringilla	Brambling	järripeippo	species	True
+MX.36242	Serinus serinus	European Serin	keltahemppo	species	True
+MX.36283	Carduelis chloris	European Greenfinch	viherpeippo	species	True
+MX.36287	Carduelis spinus	Eurasian Siskin	vihervarpunen	species	True
+MX.36306	Carduelis carduelis	European Goldfinch	tikli	species	True
+MX.36308	Carduelis flammea	Common Redpoll	urpiainen	species	True
+MX.36309	Carduelis flavirostris	Twite	vuorihemppo	species	True
+MX.36310	Carduelis cannabina	Common Linnet	hemppo	species	True
+MX.36331	Carpodacus erythrinus	Common Rosefinch	punavarpunen	species	True
+MX.36351	Pinicola enucleator	Pine Grosbeak	taviokuurna	species	True
+MX.36355	Loxia		käpylinnut	genus	True
+MX.36356	Loxia pytyopsittacus	Parrot Crossbill	isokäpylintu	species	True
+MX.36358	Loxia curvirostra	Red Crossbill	pikkukäpylintu	species	True
+MX.36359	Loxia leucoptera	Two-barred Crossbill	kirjosiipikäpylintu	species	True
+MX.36366	Pyrrhula pyrrhula	Eurasian Bullfinch	punatulkku	species	True
+MX.36368	Coccothraustes coccothraustes	Hawfinch	nokkavarpunen	species	True
+MX.36571	Passer		varpuset	genus	True
+MX.36573	Passer domesticus	House Sparrow	varpunen	species	True
+MX.36574	Passer hispaniolensis	Spanish Sparrow	pensasvarpunen	species	True
+MX.36589	Passer montanus	Eurasian Tree Sparrow	pikkuvarpunen	species	True
+MX.36816	Pastor roseus	Rosy Starling	punakottarainen	species	True
+MX.36817	Sturnus vulgaris	Common Starling	kottarainen	species	True
+MX.36871	Oriolus oriolus	Eurasian Golden Oriole	kuhankeittäjä	species	True
+MX.37090	Garrulus glandarius	Eurasian Jay	närhi	species	True
+MX.37095	Perisoreus infaustus	Siberian Jay	kuukkeli	species	True
+MX.37122	Pica pica	Eurasian Magpie	harakka	species	True
+MX.37135	Nucifraga caryocatactes	Spotted Nutcracker	pähkinähakki	species	True
+MX.37142	Corvus monedula	Western Jackdaw	naakka	species	True
+MX.37156	Corvus frugilegus	Rook	mustavaris	species	True
+MX.37178	Corvus corax	Northern Raven	korppi	species	True
+MX.37612	Mammalia	Mammals	nisäkkäät	class	False
+MX.46587	Vulpes vulpes	Red Fox	kettu	species	False
+MX.47507	Capreolus capreolus	Roe Deer	metsäkauris	species	False
+MX.51115	Canis	Dogs, Wolves, Coyotes, Jackals	koirat	genus	False
+MX.73542	Aquila nipalensis	Steppe Eagle	arokotka	species	True
+MX.73545	Carduelis hornemanni	Arctic Redpoll	tundraurpiainen	species	True
+MX.73566	Corvus corone	Carrion Crow	varis	species	True
+MX.73583	Larus cachinnans	Caspian Gull	aroharmaalokki	species	True
+MX.73584	Larus michahellis	Yellow-legged Gull	etelänharmaalokki	species	True
+MX.200001	Saxicola maurus	Siberian Stonechat	sepeltasku	species	True
+MX.291296	Canis lupus familiaris	dog	koira	subspecies	False
+MX.293126	Emberizidae	Old World Buntings	sirkut	family	True
+MX.5013225	Anser/Branta		harmaa-/kirjohanhi	speciesAggregate	True
